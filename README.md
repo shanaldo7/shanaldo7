@@ -8,18 +8,13 @@
 
 </div>
 
-
-<img width="1010" height="600" alt="Image" src="https://github.com/user-attachments/assets/eaa31ba8-ed3b-432c-9577-6fa8505083e7" />
-
-## ⚔️ STATISTICS — SYSTEM DATA
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shanaldo7&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanaldo7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" width="49%" />
-
+  <img width="1010" height="600" alt="Image" src="https://github.com/user-attachments/assets/eaa31ba8-ed3b-432c-9577-6fa8505083e7" />
 </div>
+
+<br />
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shanaldo7&theme=radical&show_icons=true)
 
 ### Open Source Contributions
 
