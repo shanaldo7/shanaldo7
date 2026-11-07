@@ -1,18 +1,25 @@
 <div align="center">
 
-# ⚔️ SYSTEM INITIALIZED —HUNTER PROFILE
+<h1>
+  <span style="color: #00E5FF;">SHAYAN'S PROFILE</span>
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=PLAYER%3A+SHANALDO;WELCOME+TO+THE+SYSTEM;MY+JOURNEY+STARTS+HERE" />
 
 </div>
 
-<div align="center" style="margin-left: 100px;">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZED...;HUNTER+PROFILE%3A+SHANALDO;AI+%7C+CYBERSECURITY+%7C+OPEN+SOURCE;LEVELING+UP+ONE+COMMIT+AT+A+TIME" alt="Animated introduction" />
-<img src="https://img.shields.io/badge/RANK-E--RANK-7C3AED?style=for-the-badge&labelColor=111827" />
-
-<img src="https://img.shields.io/badge/CLASS-DEVELOPER-9333EA?style=for-the-badge&labelColor=111827" />
-</div>
 
 <img width="1010" height="600" alt="Image" src="https://github.com/user-attachments/assets/eaa31ba8-ed3b-432c-9577-6fa8505083e7" />
+
+## ⚔️ STATISTICS — SYSTEM DATA
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shanaldo7&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanaldo7&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" width="49%" />
+
+</div>
 
 ### Open Source Contributions
 
