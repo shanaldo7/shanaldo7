@@ -18,9 +18,14 @@
 
 ### Open Source Contributions
 
-AT KESTRA :-
+AT KESTRA :
+
+FRONT/BACKEND :-
 
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
 [![Contributor](https://img.shields.io/badge/5%20PRs%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/search?q=org:kestra-io+author:shanaldo7+is:pr+is:merged&type=pullrequests)
 
+PLUGINS :-
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-PLUGIN--NEO4J-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
